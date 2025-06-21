@@ -1,0 +1,43 @@
+(Privacy Policy)
+
+
+1. an introduction
+
+Welcome to the 'Automated Content Generator' privacy policy. This app is designed as a personal automation tool to work with the n8n platform. The only purpose of this application is to allow the user (the owner of the application) to publish the content of a video that was created automatically to his personal account on Tik Tok. We respect your privacy and commit to protecting it. This policy explains how we deal with data in the context of the specific application function.
+
+ 2. Data we collect and process 
+
+This application does not collect any personal data from Tik Tok account visitors or any other users. Its function is limited to processing the following data for the purpose of publication only:
+
+  Video content:  Video created by n8n workflow.
+  Text content:  Quotations and texts that are used as part of the video or in the description of the post.
+  Authentication data:  We use Access TokTok API to validate requests and allow video to be posted on your specified account. This data is stored safely within the encrypted credit manager on the user's n8n platform.
+
+We do not collect or store any personal identification information (PII) for any individual.
+
+ 3. How do we use your data 
+
+The data processed is used for the following sole purpose:
+  Dissemination of content:  To publish automatically created videos on the owner's Tik Tok account ` [Put your account link on Tik Tok here]  as defined in the automation workflow.
+
+We do not sell, rent, or share this data with any third parties for marketing, advertising, or other purposes.
+
+ 4. Data sharing 
+
+The only party with which we share the data is Tik Tok itself, to complete the posting process via their official API. We do not share data with any other entities.
+
+  5. Data security 
+
+We take data security seriously. All API access keys and sensitive data are stored safely using the built-in Credential Manager on the n8n platform. The data is only accessed via secure communications (HTPS).
+
+ 6. Third party services 
+
+This automation workflow depends on several services from external parties to accomplish its job (such as Creatomate, ElevenLabs, Pexels, Google Drive). This policy does not cover privacy practices for these services. We recommend reviewing their privacy policies to understand how they handle data.
+
+ 7. Privacy Policy Changes 
+
+We may update this privacy policy from time to time. Any changes will be posted on this page.
+
+ 8. call us
+
+If you have any questions about this privacy policy, you can contact us via email: mohamed.ibrahem.elsherbiny4@gmail.com
